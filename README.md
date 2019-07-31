@@ -1,2 +1,1 @@
-# bid
-springboot with sb-administrtator UI framework, with theme and jbpm surpport
+a demonstration for how to use jbpm as a service, with springboot, bootstrap, focusing on how to use jbpm using kie client
